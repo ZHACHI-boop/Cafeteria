@@ -1,0 +1,2 @@
+P01;Cafe Espresso;1.5;10
+C01;Capuchino;2.0;8
